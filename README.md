@@ -19,7 +19,6 @@ I am a back-end developer and a little front-end developer, who in many years of
 
 
 ## Details  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [E-Times Multiplayer](https://github.com/Vicentzo1337/rage-etimes)  
   
@@ -28,9 +27,6 @@ I am a back-end developer and a little front-end developer, who in many years of
   
 
 - ⚡ Fun fact: I am always interested in looking for new and efficient things  
-
-
-</td></tr></table>  
 
 <br/>  
 
