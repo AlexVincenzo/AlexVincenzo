@@ -9,9 +9,6 @@
 </a>  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Vicentzo1337&&style=flat-square)  
-  
-
 
 
 ### Im happy to see you here !  
@@ -35,7 +32,7 @@ I am a back-end developer and a little front-end developer, who in many years of
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicentzo1337&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
 
 </td></tr></table>  
 
