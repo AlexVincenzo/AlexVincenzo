@@ -20,8 +20,6 @@ I am a back-end developer and a little front-end developer, who in many years of
 
 ## Details  
 
-- 🔭 I’m currently working on [E-Times Multiplayer](https://github.com/Vicentzo1337/rage-etimes)  
-  
 
 - 🌱 I’m currently learning VueJS and Front-End Skills  
   
