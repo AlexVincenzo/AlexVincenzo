@@ -21,7 +21,7 @@ I am a back-end developer and a little front-end developer, who in many years of
 ## Details  
 
 
-- 🌱 I’m currently learning VueJS and Front-End Skills  
+- 🌱 I’m currently learning front-end skills 
   
 
 - ⚡ Fun fact: I am always interested in looking for new and efficient things  
