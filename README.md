@@ -32,7 +32,7 @@ I am a full-stack software developer with roots in 2017, the year I began an exc
 
 </td><td valign="top" width="50%">
 
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31v64shncgnor3mumixls6byc7yy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
 </td></tr></table>  
 
@@ -79,14 +79,3 @@ I am a full-stack software developer with roots in 2017, the year I began an exc
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
