@@ -24,9 +24,6 @@ I am a full-stack software developer with roots in 2017, the year I began an exc
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Pro-Gaming Romania](https://github.com/Pro-Gaming-Romania) an Romanian RAGE:MP server  
-  
-
 - 🤝 Get in touch with me on email, [vicentzodev@gmail.com]  
 
 
